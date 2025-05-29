@@ -43,3 +43,5 @@ setTimeout
 fetch
 
 promises
+## What is closure in js?
+In javascript, a closure refers to a function that has access to variables even after parents function has finished executing. 
