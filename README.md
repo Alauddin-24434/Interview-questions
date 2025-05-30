@@ -44,4 +44,11 @@ fetch
 
 promises
 ## What is closure in js?
-In javascript, a closure refers to a function that has access to variables even after parents function has finished executing. 
+In javascript, a closure refers to a function that has access to variables even after parents function has finished executing.
+
+# Html
+## What are sementic html tags?
+Sementic html tags provide meaning to the content they wrap.
+Example include header,footer,article and section
+making it easier for search engines
+and developers to understand the page structure. 
